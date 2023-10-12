@@ -9,6 +9,8 @@ Road accidents are one of the major causes of human deaths. Among the different 
 E-challan will also be generated with offender details. A database will be generated with records to identify every offender accurately. The system implements pure machine learning in order to identify every type of helmet that it comes across with minimum computation cost. 
 
 
+trigger:  /Main_Code.ipynb  to run the code
+
 
 
 
